@@ -1,7 +1,8 @@
 # r1pythontesseract
 Tesseract with bouncing ball inside fully programmed by Deepseek R1
-Remarkable stuff right there.
+Remarkable stuff right there. Here is a video showcasing the product: 
 
+Prompt: write a python script of a ball bouncing inside a tesseract
 Heres the reasoning process:
 
 
